@@ -1,0 +1,70 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" timestamp="1541926249439">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1541939257964">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1541938612399">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/zhao/python/pycharm_proj/venv/my_pygame.py" timestamp="1541924195915">
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="29" column="52" />
+        <mark key="^" line="26" column="27" />
+        <mark key="." line="29" column="52" />
+      </file>
+      <file name="C:/zhao/python/pycharm_proj/my_pygame.py" timestamp="1541932154639">
+        <mark key="'" line="20" column="52" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1541926423410">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="15" column="52" filename="C:/zhao/python/pycharm_proj/my_pygame.py" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlmIGJvZHlfcGFydCA9PSAibF9sZWciOgogICAgICAgIHB5Z2FtZS5kcmF3LmxpbmUoc2NyZWVuLFJFRCwoNDU1LDMyMCksKDQ0NSwyMzApLDMpICNsZWcK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJ3b3JkcyBpcyA9PT09PT09Iiwgd29yZHMpCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJ3b3JkcyBpcyA9PT09PT09Iiwgd29yZHMpCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJ0ZW1wIGRhdGEiLCB0ZW1wKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>object</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
