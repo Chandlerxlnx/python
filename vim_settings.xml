@@ -6,10 +6,13 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.html" timestamp="1541926249439">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541939418688">
+      <file name="/Dummy.txt" timestamp="1541946989412">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1541941567054">
+      <file name="/code.py" timestamp="1546873373168">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1541947261346">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/zhao/python/pycharm_proj/venv/my_pygame.py" timestamp="1541924195915">
@@ -18,11 +21,17 @@
         <mark key="^" line="26" column="27" />
         <mark key="." line="29" column="52" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.groovy" timestamp="1541946981264">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/zhao/python/pycharm_proj/my_pygame.py" timestamp="1541941600984">
         <mark key="'" line="20" column="52" />
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
+      </file>
+      <file name="C:/zhao/python/my_python_github/python/README.md" timestamp="1541947793585">
+        <mark key="[" line="1" column="15" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1541926423410">
         <mark key="[" line="0" column="0" />
@@ -35,16 +44,25 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIGJvZHlfcGFydCA9PSAibF9sZWciOgogICAgICAgIHB5Z2FtZS5kcmF3LmxpbmUoc2NyZWVuLFJFRCwoNDU1LDMyMCksKDQ0NSwyMzApLDMpICNsZWcK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJ3b3JkcyBpcyA9PT09PT09Iiwgd29yZHMpCg==</text>
+      <register name="1" type="4">
+        <text>try:
+    a=6/0
+except error as e :
+    print(e)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJ3b3JkcyBpcyA9PT09PT09Iiwgd29yZHMpCg==</text>
+      <register name="&quot;" type="4">
+        <text>try:
+    a=6/0
+except error as e :
+    print(e)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJ0ZW1wIGRhdGEiLCB0ZW1wKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJ3b3JkcyBpcyA9PT09PT09Iiwgd29yZHMpCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJ0ZW1wIGRhdGEiLCB0ZW1wKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IHJhbmRvbQo=</text>
       </register>
       <register name="-" type="4">
